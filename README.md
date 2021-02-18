@@ -30,8 +30,3 @@ Here is a sample status icon showing the state of the master branch:
 If you have any questions, we are in `#travis` on irc.freenode.net, on Twitter [@travisci](http://twitter.com/travisci) and have a [mailing list](https://groups.google.com/forum/#!forum/travis-ci).
 
 
-## License
-
-Copyright (C) 2012 Travis CI Development Team
-
-Distributed under the Eclipse Public License, the same as Clojure.
